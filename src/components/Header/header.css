@@ -1,0 +1,18 @@
+.header{
+	background: rgb(134, 134, 134);
+	padding: 10px 0;
+	display: flex;
+	justify-content: center;
+}
+
+.header_link{
+	display: block;
+	margin: 10px;
+	padding:0 10px;
+	color: #000;
+	text-decoration: none;
+}
+
+.header_link:hover{
+	color: rgb(32, 29, 29);
+}

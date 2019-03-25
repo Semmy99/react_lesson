@@ -1,0 +1,6 @@
+.viewBlock{
+	height: 500px;
+	border: 1px solid #000;
+	margin: 10px 0;
+	background-color: rgba(123,456,785,.74)
+}
